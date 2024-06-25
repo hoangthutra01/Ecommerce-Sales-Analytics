@@ -5,4 +5,4 @@ The customer data table includes information about customer ID, customer name, c
 
 The order data table includes information about store ID, order date, category, market segment, region, quantity, price, and profit.
 
-I have cleaned both of these data tables using Bigquery. I then imported the 2 cleaned data tables to PowerBI to visualize the data.
+I have cleaned both of these data tables using Bigquery. I then imported the 2 cleaned data tables to Tableau to visualize the data.
